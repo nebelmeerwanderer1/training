@@ -1,2 +1,2 @@
 # training
-Repository fro training projects
+Repository for training projects
